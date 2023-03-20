@@ -1,9 +1,10 @@
-var objeto = {
-    nome: "luis", 
-    idade: 19, 
-    genero: "masculino", 
-    curso: "análise e desenvolvimento de sistemas", 
-    estudando: true
-}
+var array = [
+    1,2,3,4,5
+]; 
 
-console.log(objeto.nome); 
+var array2 = [
+    "matheus", true, 2
+]; 
+
+console.log(array); 
+console.log(array2); 
