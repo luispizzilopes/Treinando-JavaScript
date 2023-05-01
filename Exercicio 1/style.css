@@ -1,0 +1,42 @@
+.dia{
+    background-color: red;
+    font-size: 30px;
+}
+
+.mes{
+    background-color: green;
+    font-size: 40px;
+}
+
+.ano{
+    background-color: blue;
+    font-size: 25px;
+}
+
+.lista-meses{
+    padding: 0;
+}
+
+.itens-primeiro{
+    list-style: none;
+    background-color: yellow;
+    font-size: 18px;
+    box-shadow: 10px 5px 10px grey;
+    padding: 5px 5px 5px 5px;
+}
+
+.itens-par{
+    list-style: none;
+    background-color: cyan;
+    font-size: 18px;
+    box-shadow: 10px 5px 10px grey;
+    padding: 5px 5px 5px 5px;
+}
+
+.itens-impar{
+    list-style: none;
+    background-color: white;
+    font-size: 18px;
+    box-shadow: 10px 5px 10px grey;
+    padding: 5px 5px 5px 5px;
+}
